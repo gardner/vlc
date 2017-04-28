@@ -1,4 +1,5 @@
 *~
+.vagrant
 *.app
 *.cache
 *.dylib
